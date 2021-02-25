@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaegerCollector", "JaegerCollector\JaegerCollector.csproj", "{2C48955C-DC60-494A-B2F9-7C0814FFCA7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaegerCollector", "JaegerCollector\JaegerCollector.csproj", "{2C48955C-DC60-494A-B2F9-7C0814FFCA7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaegerCollector.gRPC", "JaegerCollector.gRPC\JaegerCollector.gRPC.csproj", "{7F5DB9FB-36FF-472A-99F7-16BCD70F2795}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaegerCollector.Host.gRPC", "JaegerCollector.gRPC\JaegerCollector.Host.gRPC.csproj", "{7F5DB9FB-36FF-472A-99F7-16BCD70F2795}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaegerCollector.Common", "JaegerCollector.Commom\JaegerCollector.Common.csproj", "{C79C6B7E-7010-47CD-B051-702F57575547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaegerCollector.Common", "JaegerCollector.Commom\JaegerCollector.Common.csproj", "{C79C6B7E-7010-47CD-B051-702F57575547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaegerCollector.Test", "JaegerCollector.Test\JaegerCollector.Test.csproj", "{D07839D1-E1B8-4B4D-8E3A-5BBEB1FF5420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaegerCollector.Test", "JaegerCollector.Test\JaegerCollector.Test.csproj", "{D07839D1-E1B8-4B4D-8E3A-5BBEB1FF5420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaegerCollector.POCO", "JaegerCollector.POCO\JaegerCollector.POCO.csproj", "{F8304317-6186-4E20-AD2F-421ABA152C58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaegerCollector.POCO", "JaegerCollector.POCO\JaegerCollector.POCO.csproj", "{F8304317-6186-4E20-AD2F-421ABA152C58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\JaegerCollector.Commom\JaegerCollector.Common.csproj" />
-    <ProjectReference Include="..\JaegerCollector.gRPC\JaegerCollector.gRPC.csproj" />
+    <ProjectReference Include="..\JaegerCollector.gRPC\JaegerCollector.Host.gRPC.csproj" />
   </ItemGroup>
 
 </Project>
